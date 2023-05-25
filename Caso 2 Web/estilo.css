@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgba(93, 94, 99, 0.48);
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(110, 39, 202);
+}
+#sech{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 5px;
+    color: rgb(12, 12, 12);
+}
